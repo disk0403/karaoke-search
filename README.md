@@ -7,7 +7,7 @@
 プロジェクトディレクトリに移動し、仮想環境を有効化する。
 
 ```bash
-cd Documents/projects/karaoke-search
+cd home/Documents/projects/karaoke-search
 source .venv/bin/activate
 ```
 
