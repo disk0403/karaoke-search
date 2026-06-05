@@ -23,10 +23,10 @@ deactivate
 カラオケBanBanの店舗情報を取得し、`branches.csv` を生成・更新する。
 
 ```bash
-python3 scraping_karaokebanban.py
+python3 scripts/scraping_karaokebanban.py
 ```
 
-実行すると、カラオケBanBanの店舗情報を取得し、`branches.csv` に書き出す。
+実行すると、カラオケBanBanの店舗情報を取得し、`local/branches.csv` に書き出す。
 
 `branches.csv` は毎回上書きされるため、手元で編集した内容を残したい場合は、実行前に別名でバックアップする。
 
@@ -35,7 +35,7 @@ python3 scraping_karaokebanban.py
 `branches.csv` を使って、都道府県・市区町村・条件で店舗を検索する。
 
 ```bash
-python3 search.py
+python3 scripts/search.py
 ```
 
 実行後は、画面の案内に沿って以下を入力する。

@@ -71,7 +71,7 @@ print("検索結果")
 print("-------------------------------------------")
 result_count = 0
 
-with open("branches.csv", encoding="utf-8-sig") as f:
+with open("local/branches.csv", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
 
     for branch in reader:

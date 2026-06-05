@@ -64,7 +64,7 @@ for link_pref in s.find_all("area", shape = "rect"):
 
         rows.append(["カラオケBanBan", branch, url_branch, pref, city, address, parking, wifi, bringin, smoking])
 
-with open("branches.csv", "w", newline="", encoding="utf-8-sig") as f:
+with open("local/branches.csv", "w", newline="", encoding="utf-8-sig") as f:
     writer = csv.writer(f)
     writer.writerow(["chain", "branch", "url", "pref", "city", "address", "parking", "wifi", "bringin", "smoking"])
     writer.writerows(rows)

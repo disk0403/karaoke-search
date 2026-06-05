@@ -1,5 +1,4 @@
 local/
 .venv/
 .DS_Store
-__pycache__/city.cpython-314.pyc
-__pycache__/dict_pref_city.cpython-314.pyc
+scripts/__pycache__
