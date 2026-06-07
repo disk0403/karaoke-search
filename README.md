@@ -23,7 +23,7 @@ deactivate
 カラオケBanBanの店舗情報を取得し、`branches.csv` を生成・更新する。
 
 ```bash
-python3 scripts/scraping_karaokebanban.py
+python3 scripts/scraping_banban.py
 ```
 
 実行すると、カラオケBanBanの店舗情報を取得し、`local/branches.csv` に書き出す。
@@ -68,9 +68,9 @@ python3 scripts/search.py
 
 検索対象になる店舗データ。
 
-`scraping_karaokebanban.py` を実行すると、このファイルが生成・更新される。`search.py` はこのCSVを読み込んで検索する。
+`scraping_banban.py` を実行すると、このファイルが生成・更新される。`search.py` はこのCSVを読み込んで検索する。
 
-### `scraping_karaokebanban.py`
+### `scraping_banban.py`
 
 カラオケBanBanの店舗一覧ページをスクレイピングし、店舗データを `branches.csv` に書き出すスクリプト。
 
@@ -92,4 +92,4 @@ python3 scripts/search.py
 
 カラオケBanBanのページ側の表示の影響で、佐賀県だけパンくずなどの都道府県表示が `佐賀県` ではなく `佐賀` になっている（おそらくサイト作成者側のミス）。
 
-そのため、`scraping_karaokebanban.py` で `branches.csv` を生成した後、佐賀県の店舗については市区町村が正しく入るように `pref` を `佐賀県` に手動で修正する必要がある。
+そのため、`scraping_banban.py` で `branches.csv` を生成した後、佐賀県の店舗については市区町村が正しく入るように `pref` を `佐賀県` に手動で修正する必要がある。
