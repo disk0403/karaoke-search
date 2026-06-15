@@ -1,0 +1,459 @@
+﻿branch_code,chain_code,city_code,branch,address,url_branch
+1,1,1,カラオケBanBan札幌厚別南店,北海道札幌市厚別区厚別南４-２６-２８,https://karaoke-shin.jp/shop-list/627.html
+2,1,45,カラオケBanBan八雲店,北海道二海郡八雲町富士見町４７-１ ＫＳビルディング３Ｆ,https://karaoke-shin.jp/shop-list/417.html
+3,1,7,カラオケBanBan帯広白樺通り店,北海道帯広市西１９条南３丁目２６-１５,https://karaoke-shin.jp/shop-list/300.html
+4,1,1,カラオケBanBan手稲駅前店,北海道札幌市手稲区手稲本町２条４丁目８-２０ キテネビルＢ棟２階区画２番,https://karaoke-shin.jp/shop-list/277.html
+5,1,2,カラオケBanBan函館柏木店,北海道函館市柏木町３５-７,https://karaoke-shin.jp/shop-list/235.html
+6,1,71,カラオケBanBan余市店,北海道余市郡余市町黒川町７-２０ 余市センタービル３Ｆ,https://karaoke-shin.jp/shop-list/223.html
+7,1,1,カラオケBanBan平岸店,北海道札幌市豊平区平岸２条８-２-６ 第２松井ビルB２F,https://karaoke-shin.jp/shop-list/220.html
+8,1,1,カラオケBanBan白石店,北海道札幌市白石区本通１丁目南２-２０ サイドワインダービル１F,https://karaoke-shin.jp/shop-list/219.html
+9,1,35,カラオケBanBan上磯店,北海道北斗市七重浜５-１５-１,https://karaoke-shin.jp/shop-list/140.html
+10,1,186,カラオケBanBan青森観光通り店,青森県青森市大字浜田字玉川３４３,https://karaoke-shin.jp/shop-list/513.html
+11,1,187,カラオケBanBan弘前駅前店,青森県弘前市大字大町１丁目３－６,https://karaoke-shin.jp/shop-list/514.html
+12,1,188,カラオケBanBan八戸諏訪店,青森県八戸市諏訪３丁目１９-２５,https://karaoke-shin.jp/shop-list/644.html
+13,1,303,カラオケBanBan大曲駅前店,秋田県大仙市大曲通町１１－１２ MAビル,https://karaoke-shin.jp/shop-list/526.html
+14,1,294,カラオケBanBan秋田泉店,秋田県秋田市泉南１丁目２－１０ １F,https://karaoke-shin.jp/shop-list/525.html
+15,1,294,カラオケBanBan秋田駅前2号店,秋田県秋田市千秋久保田町３－１８ 森ビル2,https://karaoke-shin.jp/shop-list/524.html
+16,1,296,カラオケBanBan横手店,秋田県横手市駅南１-２-２９,https://karaoke-shin.jp/shop-list/498.html
+17,1,294,カラオケBanBan秋田大町店,秋田県秋田市大町５丁目４-１５ フェニックスビル２Ｆ,https://karaoke-shin.jp/shop-list/292.html
+18,1,294,カラオケBanBan秋田駅前店,秋田県秋田市中通４丁目１２-７ 川上第２ビル１F･２F･６Ｆ,https://karaoke-shin.jp/shop-list/282.html
+19,1,238,カラオケBanBan水沢駅前店,岩手県奥州市水沢中町１５０,https://karaoke-shin.jp/shop-list/518.html
+20,1,233,カラオケBanBan一関駅前店,岩手県一関市大町１－２,https://karaoke-shin.jp/shop-list/517.html
+21,1,226,カラオケBanBan盛岡バイパス店,岩手県盛岡市上堂１丁目２－５５,https://karaoke-shin.jp/shop-list/516.html
+22,1,226,カラオケBanBan盛岡駅前店,岩手県盛岡市盛岡駅前通９－２ ステーションサイド甚ビル４F,https://karaoke-shin.jp/shop-list/515.html
+23,1,238,カラオケBanBan水沢店,岩手県奥州市水沢佐倉河五反町５６-１,https://karaoke-shin.jp/shop-list/744.html
+24,1,319,カラオケBanBan山形西バイパス店,山形県山形市あかねヶ丘３丁目１９－７,https://karaoke-shin.jp/shop-list/528.html
+25,1,319,カラオケBanBan山形駅前店,山形県山形市香澄町１丁目３－１４ サンビル２F,https://karaoke-shin.jp/shop-list/527.html
+26,1,323,カラオケBanBan新庄駅前店,山形県新庄市沖の町１-１５,https://karaoke-shin.jp/shop-list/835.html
+27,1,319,カラオケBanBan山形鉄砲町店,山形県山形市鉄砲町２-２１-３７,https://karaoke-shin.jp/shop-list/619.html
+28,1,329,カラオケBanBan東根店,山形県東根市蟹沢１７９１-２,https://karaoke-shin.jp/shop-list/341.html
+29,1,271,カラオケBanBan古川駅前店,宮城県大崎市古川駅前大通２丁目３－１０,https://karaoke-shin.jp/shop-list/523.html
+30,1,259,カラオケBanBan仙台吉成店,宮城県仙台市青葉区吉成台２丁目１－３０　１F,https://karaoke-shin.jp/shop-list/522.html
+31,1,266,カラオケBanBan多賀城店,宮城県多賀城市八幡１丁目３－４８,https://karaoke-shin.jp/shop-list/521.html
+32,1,259,カラオケBanBan仙台幸町店,宮城県仙台市宮城野区大梶１１－３,https://karaoke-shin.jp/shop-list/520.html
+33,1,259,カラオケBanBan名取大橋店,宮城県仙台市太白区郡山字原田１－１,https://karaoke-shin.jp/shop-list/519.html
+34,1,259,カラオケBanBan仙台大和町店,宮城県仙台市若林区大和町２－２９－３,https://karaoke-shin.jp/shop-list/843.html
+35,1,264,カラオケBanBan名取店,宮城県名取市飯野坂土城堀５７-１,https://karaoke-shin.jp/shop-list/684.html
+36,1,355,カラオケBanBan会津若松駅前店,福島県会津若松市白虎町２２７－２,https://karaoke-shin.jp/shop-list/531.html
+37,1,356,カラオケBanBan郡山駅東店,福島県郡山市芳賀１丁目１－４,https://karaoke-shin.jp/shop-list/530.html
+38,1,356,カラオケBanBan郡山堤店,福島県郡山市堤３丁目１８１,https://karaoke-shin.jp/shop-list/529.html
+39,1,358,カラオケBanBan白河駅前店,福島県白河市道場小路１１８,https://karaoke-shin.jp/shop-list/831.html
+40,1,356,カラオケBanBan郡山うねめ通り店,福島県郡山市朝日３-２-３４,https://karaoke-shin.jp/shop-list/602.html
+41,1,357,カラオケBanBanいわき自由ヶ丘店,福島県いわき市自由ケ丘４６-３,https://karaoke-shin.jp/shop-list/306.html
+42,1,359,カラオケBanBan須賀川店,福島県須賀川市茶畑町１ ２Ｆ,https://karaoke-shin.jp/shop-list/298.html
+43,1,357,カラオケBanBanいわき駅前店,福島県いわき市平三町目３１,https://karaoke-shin.jp/shop-list/237.html
+44,1,457,カラオケBanBan宇都宮竹林店,栃木県宇都宮市竹林町５９２-１,https://karaoke-shin.jp/shop-list/756.html
+45,1,459,カラオケBanBan栃木薗部町店,栃木県栃木市薗部町三丁目１４-４１,https://karaoke-shin.jp/shop-list/400.html
+46,1,460,カラオケBanBan佐野店,栃木県佐野市伊勢山町４-４,https://karaoke-shin.jp/shop-list/293.html
+47,1,464,カラオケBanBan真岡店,栃木県真岡市熊倉町４７８８-１,https://karaoke-shin.jp/shop-list/148.html
+48,1,468,カラオケBanBanさくら店,栃木県さくら市草川６６-１,https://karaoke-shin.jp/shop-list/117.html
+49,1,467,カラオケBanBan西那須野バイパス店,栃木県那須塩原市南郷屋２丁目１０６-２９,https://karaoke-shin.jp/shop-list/760.html
+50,1,457,カラオケBanBan宇都宮駅東口店,栃木県宇都宮市東宿郷１丁目５-１８,https://karaoke-shin.jp/shop-list/452.html
+51,1,463,カラオケBanBan小山50号店,栃木県小山市東城南一丁目１番１８号 １Ｆ,https://karaoke-shin.jp/shop-list/372.html
+52,1,462,カラオケBanBan今市店,栃木県日光市今市本町７-６,https://karaoke-shin.jp/shop-list/200.html
+53,1,457,カラオケBanBan駒生店,栃木県宇都宮市駒生町８３１-３,https://karaoke-shin.jp/shop-list/183.html
+54,1,467,カラオケBanBan西那須野店,栃木県那須塩原市下永田１-１００６-１０ ウィステリア西那須野１Ｆ･２Ｆ,https://karaoke-shin.jp/shop-list/070.html
+55,1,470,カラオケBanBan石橋店,栃木県下野市石橋５７８-１ ２Ｆ,https://karaoke-shin.jp/shop-list/053.html
+56,1,457,カラオケBanBan鶴田店,栃木県宇都宮市鶴田町１５１０-２ ループライン２Ｆ,https://karaoke-shin.jp/shop-list/036.html
+57,1,483,ichi-ban高崎店,群馬県高崎市八島町１１０－６ TO-MOREビル３Ｆ,https://karaoke-shin.jp/shop-list/594.html
+58,1,486,カラオケBanBan太田西矢島店,群馬県太田市西矢島町５７５－１　２F,https://karaoke-shin.jp/shop-list/857.html
+59,1,482,カラオケBanBan前橋箱田店,群馬県前橋市箱田町５７８-４,https://karaoke-shin.jp/shop-list/626.html
+60,1,489,カラオケBanBan渋川インター前店,群馬県渋川市半田１８００,https://karaoke-shin.jp/shop-list/397.html
+61,1,485,カラオケBanBan伊勢崎店,群馬県伊勢崎市連取町２３３３-１,https://karaoke-shin.jp/shop-list/077.html
+62,1,482,チョコカラ前橋店,群馬県前橋市西片貝町５－１２-１３,https://karaoke-shin.jp/shop-list/824.html
+63,1,418,カラオケBanBan結城店,茨城県結城市新福寺３-１-１０,https://karaoke-shin.jp/shop-list/172.html
+64,1,429,カラオケBanBan勝田駅前店,茨城県ひたちなか市勝田中央３－１,https://karaoke-shin.jp/shop-list/533.html
+65,1,413,カラオケBanBan水戸駅南口店,茨城県水戸市桜川１丁目４－５　２F,https://karaoke-shin.jp/shop-list/532.html
+66,1,420,カラオケBanBan下妻店,茨城県下妻市長塚１０２－１,https://karaoke-shin.jp/shop-list/840.html
+67,1,416,カラオケBanBan古河鴻巣店,茨城県古河市鴻巣８９０,https://karaoke-shin.jp/shop-list/837.html
+68,1,428,カラオケBanBanつくば梅園店,茨城県つくば市下原字池向３７９-４,https://karaoke-shin.jp/shop-list/732.html
+69,1,433,カラオケBanBan常陸大宮店,茨城県常陸大宮市東富町６３９-１,https://karaoke-shin.jp/shop-list/693.html
+70,1,414,カラオケBanBan日立銀座通り店,茨城県日立市弁天町１-１２-１５ 東海弁天町ビル２Ｆ,https://karaoke-shin.jp/shop-list/488.html
+71,1,428,カラオケBanBanつくば学園店,茨城県つくば市東新井１９-５ つくばサンヨービル２Ｆ,https://karaoke-shin.jp/shop-list/463.html
+72,1,436,カラオケBanBan坂東岩井店,茨城県坂東市岩井２８５１-４,https://karaoke-shin.jp/shop-list/428.html
+73,1,426,カラオケBanBan取手駅前店,茨城県取手市取手２-３-１ ゼファー取手東口駅前ビル１F〜３Ｆ,https://karaoke-shin.jp/shop-list/333.html
+74,1,416,カラオケBanBan古河三杉町店,茨城県古河市三杉町２-５-２０,https://karaoke-shin.jp/shop-list/310.html
+75,1,424,カラオケBanBan磯原店,茨城県北茨城市磯原町磯原２-１６ ２Ｆ,https://karaoke-shin.jp/shop-list/253.html
+76,1,414,カラオケBanBan日立滑川店,茨城県日立市滑川町１-１２-１８,https://karaoke-shin.jp/shop-list/231.html
+77,1,415,カラオケBanBan神立店,茨城県土浦市神立中央２-２０-３６,https://karaoke-shin.jp/shop-list/174.html
+78,1,428,カラオケBanBanつくば店,茨城県つくば市春日４-１-１３,https://karaoke-shin.jp/shop-list/124.html
+79,1,440,カラオケBanBan神栖店,茨城県神栖市奥野谷３４２５,https://karaoke-shin.jp/shop-list/118.html
+80,1,440,カラオケBanBan波崎店,茨城県神栖市波崎８５８３-１,https://karaoke-shin.jp/shop-list/091.html
+81,1,451,カラオケBanBan阿見店,茨城県稲敷郡阿見町住吉２-１５-２,https://karaoke-shin.jp/shop-list/069.html
+82,1,430,カラオケBanBan鹿嶋鉢形台店,茨城県鹿嶋市鉢形台１-１-８,https://karaoke-shin.jp/shop-list/028.html
+83,1,517,カラオケALLさいたま新都心店,埼玉県さいたま市大宮区吉敷町４－５９－１　３Ｆ,https://karaoke-shin.jp/shop-list/568.html
+84,1,517,カラオケALL武蔵浦和店,埼玉県さいたま市南区沼影１－８－１７　２Ｆ,https://karaoke-shin.jp/shop-list/567.html
+85,1,517,カラオケBanBan大宮北袋店,埼玉県さいたま市大宮区北袋町２丁目４４０ ２Ｆ,https://karaoke-shin.jp/shop-list/838.html
+86,1,517,カラオケBanBan浦和駅東口店,埼玉県さいたま市浦和区東高砂９-１ Sumida One本館6F,https://karaoke-shin.jp/shop-list/832.html
+87,1,517,カラオケBanBan埼大通り店,埼玉県さいたま市桜区上大久保６４３-１,https://karaoke-shin.jp/shop-list/739.html
+88,1,517,カラオケBanBan与野駅前店,埼玉県さいたま市中央区下落合１０５０-２ 与野太平ビルＢ１Ｆ,https://karaoke-shin.jp/shop-list/729.html
+89,1,517,カラオケBanBan北浦和駅前店,埼玉県さいたま市浦和区北浦和４-５-２ 伊吹ビル２F,https://karaoke-shin.jp/shop-list/675.html
+90,1,517,カラオケBanBan浦和太田窪店,埼玉県さいたま市緑区太田窪３丁目９-２２,https://karaoke-shin.jp/shop-list/642.html
+91,1,517,カラオケBanBan桜田店,埼玉県さいたま市桜区桜田３-２-３ 中浦和マンション２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/169.html
+92,1,517,カラオケBanBan東大宮店,埼玉県さいたま市見沼区東大宮５-３７-１ 東大宮葉山ビル２Ｆ,https://karaoke-shin.jp/shop-list/061.html
+93,1,517,ハッスル宮原店,埼玉県さいたま市北区宮原町３－３６０－２　宮原駅前ビル,https://karaoke-shin.jp/shop-list/810.html
+94,1,530,カラオケBanBan羽生店,埼玉県羽生市南６丁目２１-８,https://karaoke-shin.jp/shop-list/836.html
+95,1,535,カラオケBanBanせんげん台西口店,埼玉県越谷市千間台西１-１３-５ 第一千間台ビル３Ｆ,https://karaoke-shin.jp/shop-list/830.html
+96,1,535,カラオケBanBan越谷大里店,埼玉県越谷市大里１６８-１,https://karaoke-shin.jp/shop-list/755.html
+97,1,535,カラオケBanBan越谷4号バイパス店,埼玉県越谷市神明町２-１２４-１,https://karaoke-shin.jp/shop-list/660.html
+98,1,535,カラオケBanBan新越谷駅前店,埼玉県越谷市南越谷　４-９-８ 松岡ビル,https://karaoke-shin.jp/shop-list/365.html
+99,1,535,カラオケBanBan東越谷店,埼玉県越谷市東越谷３-１２-６ 鳥敬ビル２Ｆ,https://karaoke-shin.jp/shop-list/016.html
+100,1,550,カラオケBanBan坂戸駅前店,埼玉県坂戸市日の出町３-２１ 丸加ビル２Ｆ,https://karaoke-shin.jp/shop-list/637.html
+101,1,548,カラオケBanBan三郷駅前店,埼玉県三郷市早稲田２-２-７ ノースプラザ徳重２Ｆ,https://karaoke-shin.jp/shop-list/396.html
+102,1,528,カラオケBanBan春日部駅東口店,埼玉県春日部市粕壁１-３-９ マルヤ住宅第１３ビル,https://karaoke-shin.jp/shop-list/025.html
+103,1,528,カラオケBanBan春日部ハクレン通り店,埼玉県春日部市中央４-８-２６ マルヤ住宅第１２ビル,https://karaoke-shin.jp/shop-list/015.html
+104,1,523,カラオケBanBan所沢店,埼玉県所沢市若松町８５３-３,https://karaoke-shin.jp/shop-list/243.html
+105,1,523,カラオケALL狭山ヶ丘店,埼玉県所沢市東狭山ケ丘３丁目６６５-２　インフィニット狭山ヶ丘,https://karaoke-shin.jp/shop-list/890.html
+106,1,533,カラオケBanBan北上尾店,埼玉県上尾市井戸木２丁目２１-１,https://karaoke-shin.jp/shop-list/743.html
+107,1,533,カラオケBanBan上尾愛宕店,埼玉県上尾市東町２-３-３,https://karaoke-shin.jp/shop-list/139.html
+108,1,533,カラオケBanBan上尾駅東口店,埼玉県上尾市上町１-１-１ 上尾第一ビル２Ｆ,https://karaoke-shin.jp/shop-list/078.html
+109,1,542,カラオケBanBan志木駅前店,埼玉県新座市東北２丁目３９-１３ ＥＨ第８ビル３Ｆ,https://karaoke-shin.jp/shop-list/747.html
+110,1,532,カラオケBanBan深谷店,埼玉県深谷市大字国済寺５７２-１,https://karaoke-shin.jp/shop-list/100.html
+111,1,532,うえすとらんど深谷店,埼玉県深谷市西島町３－９－１　深谷ビッグロフト2F,https://karaoke-shin.jp/shop-list/819.html
+112,1,518,カラオケALL本川越店,埼玉県川越市新富町１－１１－２シントミビル２Ｆ,https://karaoke-shin.jp/shop-list/566.html
+113,1,518,カラオケALL川越西口店,埼玉県川越市脇田本町１６－３ 堀ビル３Ｆ,https://karaoke-shin.jp/shop-list/564.html
+114,1,518,カラオケALL川越岸町店,埼玉県川越市岸町２－５－５,https://karaoke-shin.jp/shop-list/563.html
+115,1,518,カラオケALL霞店,埼玉県川越市的場北１－３－１０,https://karaoke-shin.jp/shop-list/561.html
+116,1,518,カラオケBanBan川越店,埼玉県川越市新富町１-１９-４ 本川越ＡＳビル２Ｆ,https://karaoke-shin.jp/shop-list/027.html
+117,1,520,カラオケBanBan川口元郷店,埼玉県川口市元郷６-１-６,https://karaoke-shin.jp/shop-list/094.html
+118,1,520,カラオケBanBan西川口駅前店,埼玉県川口市並木２-１-１ フェストビル３Ｆ,https://karaoke-shin.jp/shop-list/748.html
+119,1,534,カラオケBanBan獨協大学前駅東口店,埼玉県草加市栄町３-４-８ ヨシカワビル２Ｆ,https://karaoke-shin.jp/shop-list/399.html
+120,1,534,カラオケBanBan草加店,埼玉県草加市松江３-１-３,https://karaoke-shin.jp/shop-list/142.html
+121,1,552,カラオケBanBan鶴ヶ島五味ヶ谷店,埼玉県鶴ヶ島市五味ヶ谷４-７,https://karaoke-shin.jp/shop-list/345.html
+122,1,552,カラオケBanBan若葉店,埼玉県鶴ヶ島市富士見１-７-５ Ｙ・Ａビル２Ｆ,https://karaoke-shin.jp/shop-list/196.html
+123,1,527,カラオケBanBan東松山駅前店,埼玉県東松山市箭弓町１-１０-１２ ＳＴビル２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/361.html
+124,1,524,カラオケBanBan飯能店,埼玉県飯能市仲町１２-７,https://karaoke-shin.jp/shop-list/092.html
+125,1,545,カラオケBanBan北本本宿店,埼玉県北本市本宿８-１０３-１,https://karaoke-shin.jp/shop-list/228.html
+126,1,526,カラオケBanBan本庄店,埼玉県本庄市本町１００３,https://karaoke-shin.jp/shop-list/757.html
+127,1,526,うえすとらんど本庄店,埼玉県本庄市駅南１-１０-１　2F,https://karaoke-shin.jp/shop-list/820.html
+128,1,536,カラオケBanBan蕨駅前店,埼玉県蕨市塚越１丁目４-２ 蕨埼栄第二ビル３F･４Ｆ,https://karaoke-shin.jp/shop-list/766.html
+129,1,537,カラオケALL北戸田店,埼玉県戸田市新曽２１９６－１　２Ｆ,https://karaoke-shin.jp/shop-list/565.html
+130,1,525,うえすとらんど加須店,埼玉県加須市元町７-２　祐晃ビル1F,https://karaoke-shin.jp/shop-list/821.html
+131,1,555,カラオケALL上福岡店,埼玉県ふじみ野市上福岡１－８－７　２Ｆ,https://karaoke-shin.jp/shop-list/562.html
+132,1,547,カラオケALLみずほ台店,埼玉県富士見市西みずほ台１-１-４　ヒカリみずほ台2.3.4F,https://karaoke-shin.jp/shop-list/891.html
+133,1,577,WAVE宮代店,埼玉県南埼玉郡宮代町和戸３丁目４－１６,https://karaoke-shin.jp/shop-list/811.html
+134,1,592,カラオケBanBan旭店,千葉県旭市イ２６７０,https://karaoke-shin.jp/shop-list/738.html
+135,1,608,カラオケBanBan印西ビッグホップ店,千葉県印西市原１-２ ＢＩＧＨＯＰガーデンモール印西,https://karaoke-shin.jp/shop-list/768.html
+136,1,604,カラオケBanBan浦安店,千葉県浦安市北栄１-１６-３０ 浦安レドンドビル２Ｆ,https://karaoke-shin.jp/shop-list/265.html
+137,1,604,カラオケBanBan浦安やなぎ通り店,千葉県浦安市北栄４-２-１,https://karaoke-shin.jp/shop-list/655.html
+138,1,604,カラオケBanBan新浦安駅前店,千葉県浦安市入船１丁目４-１ イオン新浦安４Ｆ,https://karaoke-shin.jp/shop-list/457.html
+139,1,599,カラオケBanBan我孫子緑店,千葉県我孫子市緑２-１１-４１,https://karaoke-shin.jp/shop-list/613.html
+140,1,599,カラオケBanBan我孫子店,千葉県我孫子市本町１-１-６ エム・エービル３F〜５Ｆ,https://karaoke-shin.jp/shop-list/187.html
+141,1,584,カラオケBanBan館山店,千葉県館山市北条６８５,https://karaoke-shin.jp/shop-list/692.html
+142,1,590,カラオケBanBan勝田台店,千葉県佐倉市井野１４８７-２,https://karaoke-shin.jp/shop-list/740.html
+143,1,590,カラオケBanBan佐倉王子台店,千葉県佐倉市王子台１-２６-１,https://karaoke-shin.jp/shop-list/266.html
+144,1,596,カラオケBanBan市原店,千葉県市原市八幡２１７-１ 米澤産業ビル,https://karaoke-shin.jp/shop-list/771.html
+145,1,582,カラオケBanBan本八幡駅南口店,千葉県市川市南八幡４丁目３－２　アロー本八幡駅前ビル,https://karaoke-shin.jp/shop-list/841.html
+146,1,582,カラオケBanBan行徳駅前店,千葉県市川市行徳駅前１-２２-１４ 日本都市行徳ビル２Ｆ,https://karaoke-shin.jp/shop-list/776.html
+147,1,593,カラオケBanBan実籾駅前店,千葉県習志野市実籾４丁目１-１ 真壁ビル２Ｆ,https://karaoke-shin.jp/shop-list/275.html
+148,1,586,カラオケBanBan松戸駅東口店,千葉県松戸市松戸１２３１ アステシオビル5Ｆ、6F,https://karaoke-shin.jp/shop-list/795.html
+149,1,586,カラオケBanBan八柱駅前2号店,千葉県松戸市日暮１丁目１６-１ ＲＧ八柱ビル５Ｆ,https://karaoke-shin.jp/shop-list/767.html
+150,1,586,カラオケBanBan八柱駅前店,千葉県松戸市日暮１-１６-１６ アミューズプラザ８ビル５Ｆ,https://karaoke-shin.jp/shop-list/360.html
+151,1,586,カラオケALL北松戸店,千葉県松戸市上本郷９０８,https://karaoke-shin.jp/shop-list/897.html
+152,1,580,カラオケBanBan稲毛海岸店,千葉県千葉市美浜区高洲１-２３-８ 第２稲毛海岸ニイクラビル３Ｆ,https://karaoke-shin.jp/shop-list/370.html
+153,1,580,カラオケBanBan蘇我駅前店,千葉県千葉市中央区南町２-１５-１９ ＭＴＫビル３Ｆ,https://karaoke-shin.jp/shop-list/311.html
+154,1,580,カラオケBanBan千葉中央店,千葉県千葉市中央区中央３-１５-１ 銀座第６ビル１Ｆ〜３Ｆ,https://karaoke-shin.jp/shop-list/056.html
+155,1,580,カラオケBanBan稲毛店,千葉県千葉市稲毛区園生町９５６-１,https://karaoke-shin.jp/shop-list/020.html
+156,1,580,カラオケBanBanオーツーパーク稲毛店,千葉県千葉市稲毛区園生町３８０-１-５,https://karaoke-shin.jp/shop-list/322.html
+157,1,583,カラオケBanBan原木西船橋店,千葉県船橋市本郷町６３１,https://karaoke-shin.jp/shop-list/806.html
+158,1,583,カラオケBanBan船橋藤原店,千葉県船橋市藤原４-９-２８ ２Ｆ,https://karaoke-shin.jp/shop-list/668.html
+159,1,583,カラオケBanBan西船橋店,千葉県船橋市海神６-１４-１０ 六右衛門ビル２Ｆ,https://karaoke-shin.jp/shop-list/261.html
+160,1,583,カラオケBanBan津田沼店,千葉県船橋市前原西２-１５-１９ 三宝ビル２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/232.html
+161,1,581,カラオケBanBan銚子末広店,千葉県銚子市末広町４-１７,https://karaoke-shin.jp/shop-list/309.html
+162,1,591,カラオケBanBan東金店,千葉県東金市道庭６６１-１,https://karaoke-shin.jp/shop-list/402.html
+163,1,594,カラオケBanBan柏駅西口店,千葉県柏市旭町１-１-１,https://karaoke-shin.jp/shop-list/752.html
+164,1,594,カラオケBanBan柏高田店,千葉県柏市高田１３３２-５ パンドラ柏高田ビル１Ｆ,https://karaoke-shin.jp/shop-list/263.html
+165,1,598,カラオケBanBan勝田台駅前店,千葉県八千代市勝田台１-９-１ 勝田台駅前ビル３Ｆ,https://karaoke-shin.jp/shop-list/680.html
+166,1,610,カラオケBanBan富里店,千葉県富里市七栄６４６-３３９,https://karaoke-shin.jp/shop-list/145.html
+167,1,588,カラオケBanBan茂原駅前店,千葉県茂原市千代田町１-１０-５ 中山ビル３Ｆ,https://karaoke-shin.jp/shop-list/737.html
+168,1,585,カラオケBanBan木更津店,千葉県木更津市東中央１-３-１２,https://karaoke-shin.jp/shop-list/368.html
+169,1,597,カラオケBanBan流山江戸川台店,千葉県流山市江戸川台東２-３１ カドヤ第一ビル３Ｆ,https://karaoke-shin.jp/shop-list/283.html
+170,1,,カラオケBanBan鎌ヶ谷店,千葉県鎌ヶ谷市東道野辺５-８-２７,https://karaoke-shin.jp/shop-list/803.html
+171,1,634,カラオケALL飯田橋店,東京都千代田区飯田橋４－８－２　４Ｆ,https://karaoke-shin.jp/shop-list/587.html
+172,1,634,カラオケBanBan御茶ノ水店,東京都千代田区神田駿河台２－１－７　ノアーズアークビル２F～４F,https://karaoke-shin.jp/shop-list/858.html
+173,1,637,カラオケALL西新宿店,東京都新宿区西新宿５－１０－１４　２Ｆ,https://karaoke-shin.jp/shop-list/582.html
+174,1,637,カラオケALL市ヶ谷店,東京都新宿区市谷八幡町１　５Ｆ,https://karaoke-shin.jp/shop-list/569.html
+175,1,637,カラオケBanBan新宿歌舞伎町一番街店,東京都新宿区歌舞伎町１－１８－３ ニューシオンビルＢ１Ｆ～５Ｆ,https://karaoke-shin.jp/shop-list/541.html
+176,1,637,カラオケBanBan高田馬場店,東京都新宿区高田馬場１－２６－１２ 高田馬場ビルＢ１Ｆ,https://karaoke-shin.jp/shop-list/538.html
+177,1,637,カラオケBanBan神楽坂店,東京都新宿区神楽坂２－１０ カグラヒルズ３F,https://karaoke-shin.jp/shop-list/536.html
+178,1,637,カラオケBanBan新宿三丁目店,東京都新宿区新宿３丁目６-１４　 新世界ビル,https://karaoke-shin.jp/shop-list/799.html
+179,1,637,カラオケBanBan四谷三丁目店,東京都新宿区四谷３-８ 四谷三丁目中央ビル３Ｆ･５Ｆ,https://karaoke-shin.jp/shop-list/276.html
+180,1,637,カラオケBanBan四谷しんみち通り店,東京都新宿区四谷１-１９-７ スリーゴールド四谷ビル,https://karaoke-shin.jp/shop-list/204.html
+181,1,638,カラオケALL茗荷谷店,東京都文京区小石川５－５－６　４Ｆ,https://karaoke-shin.jp/shop-list/586.html
+182,1,638,カラオケALL白山店,東京都文京区白山５－３３－１４横倉白山ビル ２・３Ｆ,https://karaoke-shin.jp/shop-list/583.html
+183,1,638,カラオケBanBan後楽園店,東京都文京区本郷１-１４-３ 東野ビル３Ｆ･４Ｆ,https://karaoke-shin.jp/shop-list/383.html
+184,1,638,WAVE春日店,東京都文京区小石川１-１１-１３　新香園ビル6F,https://karaoke-shin.jp/shop-list/817.html
+185,1,639,カラオケBanBan上野駅前通り店,東京都台東区上野６－１３－５ 上野エイトビル １F・３F～５F,https://karaoke-shin.jp/shop-list/537.html
+186,1,640,カラオケBanBan錦糸町駅南口店,東京都墨田区江東橋３丁目８−１４ 第一錦糸ビル6・7階,https://karaoke-shin.jp/shop-list/842.html
+187,1,640,カラオケBanBan両国駅前店,東京都墨田区両国３-２６-８ 両国ニュー大黒ビル４Ｆ,https://karaoke-shin.jp/shop-list/723.html
+188,1,641,カラオケALL西大島店,東京都江東区大島１－３４－１４　２Ｆ,https://karaoke-shin.jp/shop-list/581.html
+189,1,641,カラオケALL木場店,東京都江東区木場５－２－２　５Ｆ,https://karaoke-shin.jp/shop-list/573.html
+190,1,642,カラオケBanBan五反田駅西口店,東京都品川区西五反田１－１７－７　plazasquare五反田６Ｆ,https://karaoke-shin.jp/shop-list/846.html
+191,1,642,カラオケALL中延店,東京都品川区二葉４－２-１４　文化堂ビルB1,https://karaoke-shin.jp/shop-list/822.html
+192,1,643,カラオケALL都立大店,東京都目黒区平町１－２６－１１　３Ｆ,https://karaoke-shin.jp/shop-list/579.html
+193,1,644,カラオケALL雑色店,東京都大田区仲六郷２－１４－７河原ビル１Ｆ,https://karaoke-shin.jp/shop-list/578.html
+194,1,644,カラオケALL梅屋敷店,東京都大田区東蒲田１－１－２０,https://karaoke-shin.jp/shop-list/571.html
+195,1,644,カラオケBanBan蒲田駅西口店,東京都大田区西蒲田７－５－１０蒲田駅西口会館４Ｆ,https://karaoke-shin.jp/shop-list/847.html
+196,1,644,カラオケBanBan蒲田駅東口店,東京都大田区蒲田５丁目１１番１０号FUNDES蒲田４階,https://karaoke-shin.jp/shop-list/844.html
+197,1,644,カラオケBanBan大鳥居店,東京都大田区羽田１-２-６ 奉仕会館５Ｆ,https://karaoke-shin.jp/shop-list/834.html
+198,1,644,カラオケBanBanBIGFUN平和島店,東京都大田区平和島一丁目１番１号 ＢＩＧＦＵＮ平和島２F,https://karaoke-shin.jp/shop-list/688.html
+199,1,644,カラオケALL雪が谷大塚店,東京都大田区南雪谷２-１２-９　第５ゆたかビル2Ｆ-Ｂ,https://karaoke-shin.jp/shop-list/823.html
+200,1,645,カラオケBanBan経堂モアイ店,東京都世田谷区経堂１-１１-６ モアイ経堂ビル,https://karaoke-shin.jp/shop-list/355.html
+201,1,645,カラオケBanBan経堂店,東京都世田谷区経堂１-２４-１８ ランドエアビル２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/014.html
+202,1,645,カラオケBanBan下高井戸駅前店,東京都世田谷区赤堤４丁目４８-３,https://karaoke-shin.jp/shop-list/769.html
+203,1,645,カラオケALL成城店,東京都世田谷区成城６－９－６成城エスポワール北野２Ｆ,https://karaoke-shin.jp/shop-list/577.html
+204,1,645,カラオケALL桜新町店,東京都世田谷区桜新町１－１４－１７　２Ｆ,https://karaoke-shin.jp/shop-list/575.html
+205,1,645,カラオケBanBan明大前駅前店,東京都世田谷区松原２-４５-２ レインボー５９１ビル４Ｆ,https://karaoke-shin.jp/shop-list/663.html
+206,1,645,カラオケBanBan明大前店,東京都世田谷区松原１-３７-１６ エクセル明大前１Ｆ〜３Ｆ,https://karaoke-shin.jp/shop-list/241.html
+207,1,645,カラオケALL尾山台店,東京都世田谷区尾山台３－９-８　ダイヤ石上ビル2F,https://karaoke-shin.jp/shop-list/818.html
+208,1,646,カラオケALL笹塚店,東京都渋谷区笹塚１－５８－１３フィエスタ笹塚１Ｆ,https://karaoke-shin.jp/shop-list/576.html
+209,1,646,カラオケBanBan渋谷センター街2号店,東京都渋谷区宇田川町２９－２キラクビル２F～６F,https://karaoke-shin.jp/shop-list/848.html
+210,1,646,カラオケBanBan恵比寿駅西口店,東京都渋谷区恵比寿南１-４-１３ ＲＥＭＡＸ恵比寿２F･３Ｆ,https://karaoke-shin.jp/shop-list/794.html
+211,1,646,カラオケBanBan渋谷センター街店,東京都渋谷区宇田川町２５-３ 渋谷プリンスビル３F･４Ｆ,https://karaoke-shin.jp/shop-list/792.html
+212,1,646,カラオケBanBan渋谷三丁目店,東京都渋谷区渋谷３-１７-１ サエグサビル渋谷,https://karaoke-shin.jp/shop-list/697.html
+213,1,646,カラオケBanBan代々木上原店,東京都渋谷区西原３-７-６ 大又建設ビル地下１Ｆ,https://karaoke-shin.jp/shop-list/013.html
+214,1,648,カラオケBanBan高円寺駅南口店,東京都杉並区高円寺南３丁目５８-２１,https://karaoke-shin.jp/shop-list/689.html
+215,1,648,カラオケALL久我山店,東京都杉並区久我山５－８－１７　２Ｆ,https://karaoke-shin.jp/shop-list/574.html
+216,1,648,カラオケALL上井草店,東京都杉並区上井草３－３１－１６　Ｂ１Ｆ,https://karaoke-shin.jp/shop-list/572.html
+217,1,648,カラオケBanBan荻窪店,東京都杉並区荻窪５-２７-９ タイガープラザ27Ｆ,https://karaoke-shin.jp/shop-list/003.html
+218,1,648,カラオケBanBan阿佐ヶ谷駅前店,東京都杉並区阿佐谷南３丁目３５-１９ ＭＳＡビル３F･４Ｆ,https://karaoke-shin.jp/shop-list/686.html
+219,1,648,カラオケBanBan荻窪西口店,東京都杉並区上荻１-１６-１６ ユアビルＩ ７Ｆ,https://karaoke-shin.jp/shop-list/424.html
+220,1,648,オリーブ阿佐ヶ谷店,東京都杉並区阿佐谷北２-１３-２１　2F,https://karaoke-shin.jp/shop-list/816.html
+221,1,649,カラオケBanBan南長崎店,東京都豊島区南長崎５-１０-１３ コーポ五郎久保　１Ｆ,https://karaoke-shin.jp/shop-list/212.html
+222,1,649,カラオケBanBan池袋北口店,東京都豊島区西池袋１-３６-８ ロマンスビルＢ１Ｆ･１Ｆ,https://karaoke-shin.jp/shop-list/728.html
+223,1,649,カラオケALL千川店,東京都豊島区要町３－１２-２　ヴェラロイヤル1F,https://karaoke-shin.jp/shop-list/892.html
+224,1,650,カラオケBanBan田端新町店,東京都北区田端新町２-１４-８ 日乃本第２ビル２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/251.html
+225,1,650,カラオケALL板橋店,東京都北区滝野川７－３－８　ＧＫビル3F,https://karaoke-shin.jp/shop-list/896.html
+226,1,651,カラオケBanBan町屋店,東京都荒川区町屋２-２-５,https://karaoke-shin.jp/shop-list/410.html
+227,1,651,カラオケALL三ノ輪店,東京都荒川区南千住１-１５-４　3F,https://karaoke-shin.jp/shop-list/895.html
+228,1,652,カラオケBanBan小茂根店,東京都板橋区小茂根３-５-２４,https://karaoke-shin.jp/shop-list/024.html
+229,1,652,カラオケBanBan西台駅前店,東京都板橋区蓮根３-８-２１ パル西台Ｂ１Ｆ,https://karaoke-shin.jp/shop-list/635.html
+230,1,652,カラオケBanBan東武練馬店,東京都板橋区徳丸３-１５-２,https://karaoke-shin.jp/shop-list/429.html
+231,1,652,カラオケBanBan成増店,東京都板橋区成増１-２８-１８ 東邦ビル２Ｆ,https://karaoke-shin.jp/shop-list/353.html
+232,1,652,カラオケBanBan上板橋店,東京都板橋区上板橋２丁目１-９ エクセレンス３Ｆ,https://karaoke-shin.jp/shop-list/269.html
+233,1,652,カラオケBanBan大山店,東京都板橋区大山東町　２０-４ 第一オーシャンビル２Ｆ,https://karaoke-shin.jp/shop-list/254.html
+234,1,652,カラオケBanBan高島平店,東京都板橋区高島平８-４-２ プラザ高島ビル３Ｆ,https://karaoke-shin.jp/shop-list/044.html
+235,1,652,カラオケBanBan中板橋店,東京都板橋区中板橋１４-１０ 安藤ビル３Ｆ,https://karaoke-shin.jp/shop-list/011.html
+236,1,652,カラオケALL下赤塚店,東京都板橋区赤塚新町１-２２-７　2F,https://karaoke-shin.jp/shop-list/889.html
+237,1,653,カラオケBanBan江古田駅前店,東京都練馬区旭丘１-７６-８ 江古田マクドナルドビル４F･５Ｆ,https://karaoke-shin.jp/shop-list/453.html
+238,1,653,カラオケALL武蔵関店,東京都練馬区関町北１－２３－１０　３Ｆ,https://karaoke-shin.jp/shop-list/585.html
+239,1,653,カラオケBanBan大泉学園店,東京都練馬区東大泉１丁目３３-１７ グリーンプラザみその１Ｆ,https://karaoke-shin.jp/shop-list/257.html
+240,1,653,カラオケBanBan練馬春日町店,東京都練馬区春日町３-１５-４ 鹿島ビル２Ｆ,https://karaoke-shin.jp/shop-list/110.html
+241,1,653,カラオケBanBan旭町店,東京都練馬区旭町１-３１-１１ 日東工業ビル２Ｆ,https://karaoke-shin.jp/shop-list/019.html
+242,1,653,カラオケBanBan平和台店,東京都練馬区春日町２-５-２５,https://karaoke-shin.jp/shop-list/004.html
+243,1,653,カラオケALL中村橋店,東京都練馬区中村北４－３－８,https://karaoke-shin.jp/shop-list/893.html
+244,1,653,カラオケALL上石神井店,東京都練馬区上石神井４－１－５　1F,https://karaoke-shin.jp/shop-list/898.html
+245,1,653,サウンドスクエア富士見台店,東京都練馬区貫井３－２-７　丸市ビル3Ｆ,https://karaoke-shin.jp/shop-list/813.html
+246,1,654,カラオケBanBan竹ノ塚店,東京都足立区竹の塚１－４１－１０ T・スクエアビル２Ｆ,https://karaoke-shin.jp/shop-list/539.html
+247,1,654,カラオケBanBan北千住店,東京都足立区千住３-３３ そのうビル３Ｆ,https://karaoke-shin.jp/shop-list/349.html
+248,1,654,カラオケBanBan北綾瀬店,東京都足立区谷中３-１-１８ ウエストリバーハイツ２Ｆ,https://karaoke-shin.jp/shop-list/189.html
+249,1,655,カラオケBanBanお花茶屋駅前店,東京都葛飾区お花茶屋１-１８-１１ 田邑ビル３階,https://karaoke-shin.jp/shop-list/484.html
+250,1,655,カラオケBanBan亀有店,東京都葛飾区亀有５-３３-１３ 亀有Ｃ＆Ｉビル３Ｆ〜５Ｆ,https://karaoke-shin.jp/shop-list/047.html
+251,1,655,ビッグ青戸店,東京都葛飾区青戸３－３２-１７　2F,https://karaoke-shin.jp/shop-list/812.html
+252,1,656,カラオケBanBan平井駅北口店,東京都江戸川区平井５-２１-１２ ベルモエースビル５Ｆ,https://karaoke-shin.jp/shop-list/259.html
+253,1,657,カラオケBanBan京王片倉店,東京都八王子市片倉町４８９-４,https://karaoke-shin.jp/shop-list/764.html
+254,1,657,カラオケBanBan八王子店,東京都八王子市楢原町１４７７,https://karaoke-shin.jp/shop-list/051.html
+255,1,657,カラオケBanBan南大沢駅前店,東京都八王子市南大沢２-２ パオレビル５Ｆ,https://karaoke-shin.jp/shop-list/683.html
+256,1,665,カラオケALL成瀬店,東京都町田市成瀬が丘２－２５－１５　２Ｆ,https://karaoke-shin.jp/shop-list/580.html
+257,1,665,カラオケBanBan町田金井店,東京都町田市金井８-２３-１,https://karaoke-shin.jp/shop-list/289.html
+258,1,665,カラオケBanBan鶴川店,東京都町田市能ヶ谷１-５-８ 鶴川インペリアルビル８Ｆ,https://karaoke-shin.jp/shop-list/230.html
+259,1,662,カラオケBanBan府中2号店,東京都府中市宮西町２丁目１-８,https://karaoke-shin.jp/shop-list/784.html
+260,1,668,カラオケBanBan豊田駅前店,東京都日野市多摩平２-３-１２ 中央日石ビル３Ｆ,https://karaoke-shin.jp/shop-list/721.html
+261,1,658,カラオケBanBan立川駅北口本店,東京都立川市曙町２丁目４－５ ７F,https://karaoke-shin.jp/shop-list/852.html
+262,1,658,カラオケBanBan立川駅北口店,東京都立川市曙町２-３-２ 高柳ビル５Ｆ,https://karaoke-shin.jp/shop-list/695.html
+263,1,669,カラオケBanBan東村山駅前店,東京都東村山市本町２丁目２−１０東原ビル１F～２F,https://karaoke-shin.jp/shop-list/853.html
+264,1,669,カラオケBanBan久米川店,東京都東村山市栄町２-４-１ AIrfort.久米川 Ⅱ　２Ｆ,https://karaoke-shin.jp/shop-list/381.html
+265,1,678,カラオケBanBan多摩センター店,東京都多摩市落合１-８-１ ウィステリアビル５Ｆ･７Ｆ,https://karaoke-shin.jp/shop-list/483.html
+266,1,659,カラオケBanBan吉祥寺南口店,東京都武蔵野市吉祥寺南町１-１-１ 南陽ビルＢ１Ｆ,https://karaoke-shin.jp/shop-list/727.html
+267,1,663,カラオケBanBan拝島駅前店,東京都昭島市松原町４-１１-１４ 里見ビル３Ｆ,https://karaoke-shin.jp/shop-list/726.html
+268,1,663,カラオケBanBan昭島中神町店,東京都昭島市中神町２丁目２４-９,https://karaoke-shin.jp/shop-list/638.html
+269,1,671,カラオケBanBan国立駅前店,東京都国立市東１-４-９ ザ・ダイマス地下１Ｆ,https://karaoke-shin.jp/shop-list/256.html
+270,1,677,カラオケBanBan武蔵村山店,東京都武蔵村山市本町３-２４-１ オフトビル２Ｆ,https://karaoke-shin.jp/shop-list/216.html
+271,1,680,カラオケBanBan羽村市役所通り店,東京都羽村市栄町１丁目１２-４,https://karaoke-shin.jp/shop-list/754.html
+272,1,679,カラオケALL稲城店,東京都稲城市東長沼３１０６－３　１Ｆ,https://karaoke-shin.jp/shop-list/570.html
+273,1,667,カラオケALL花小金井店,東京都小平市花小金井１－８－５清川第3ビル３Ｆ,https://karaoke-shin.jp/shop-list/584.html
+274,1,675,カラオケALL清瀬店,東京都清瀬市松山１-２３-９　キララビル2F,https://karaoke-shin.jp/shop-list/894.html
+275,1,676,カラオケALL東久留米店,東京都東久留米市東本町５－３　オ－ヴ01ビル1F,https://karaoke-shin.jp/shop-list/827.html
+276,1,674,アイランド東大和店,東京都東大和市南街５－９７-８　内野ビル2Ｆ,https://karaoke-shin.jp/shop-list/814.html
+277,1,699,カラオケBanBan北久里浜駅前店,神奈川県横須賀市根岸町３-４-６ 大成ビル３Ｆ･４Ｆ,https://karaoke-shin.jp/shop-list/287.html
+278,1,699,カラオケBanBan久里浜店,神奈川県横須賀市佐原５-２-１３ グリーランド本館２Ｆ,https://karaoke-shin.jp/shop-list/271.html
+279,1,699,カラオケBanBan横須賀店,神奈川県横須賀市根岸町１-４-２３,https://karaoke-shin.jp/shop-list/151.html
+280,1,696,カラオケアメリカンドリーム和田町店,神奈川県横浜市保土ヶ谷区仏向町１３－１,https://karaoke-shin.jp/shop-list/591.html
+281,1,696,カラオケアメリカンドリーム天王町店,神奈川県横浜市保土ヶ谷区天王町２－３６－５　５Ｆ,https://karaoke-shin.jp/shop-list/590.html
+282,1,696,カラオケアメリカンドリーム黄金町店,神奈川県横浜市南区白金町１－１　２Ｆ,https://karaoke-shin.jp/shop-list/589.html
+283,1,696,カラオケALLあざみ野店,神奈川県横浜市青葉区あざみ野１－１１－１　２Ｆ,https://karaoke-shin.jp/shop-list/588.html
+284,1,696,カラオケBanBan三ツ境店,神奈川県横浜市瀬谷区二ツ橋町３０９-１　eモール 2F,https://karaoke-shin.jp/shop-list/775.html
+285,1,696,カラオケBanBan杉田駅前店,神奈川県横浜市磯子区杉田１丁目１６-１１,https://karaoke-shin.jp/shop-list/759.html
+286,1,696,カラオケBanBan東戸塚駅前店,神奈川県横浜市戸塚区品濃町５３９番地５ 東戸塚駅前ビル４F･５Ｆ,https://karaoke-shin.jp/shop-list/436.html
+287,1,696,カラオケアメリカンドリーム大倉山店,神奈川県横浜市港北区大倉山１-１８-６　3F,https://karaoke-shin.jp/shop-list/826.html
+288,1,696,カラオケアメリカンドリーム大口店,神奈川県横浜市神奈川区大口通１３８-２１　2F,https://karaoke-shin.jp/shop-list/825.html
+289,1,708,カラオケBanBan厚木妻田店,神奈川県厚木市妻田北１-７-９,https://karaoke-shin.jp/shop-list/604.html
+290,1,708,カラオケBanBan厚木飯山店,神奈川県厚木市飯山南３－１－１４,https://karaoke-shin.jp/shop-list/294.html
+291,1,706,カラオケBanBan三崎口店,神奈川県三浦市初声町下宮田１７０-１,https://karaoke-shin.jp/shop-list/418.html
+292,1,707,カラオケBanBan秦野店,神奈川県秦野市平沢５３１-４,https://karaoke-shin.jp/shop-list/480.html
+293,1,705,カラオケBanBan逗子店,神奈川県逗子市逗子５-１-２２ プラスビル１Ｆ〜５F,https://karaoke-shin.jp/shop-list/248.html
+294,1,697,カラオケBanBan溝の口店,神奈川県川崎市高津区溝口１丁目１２-５ 永原ビル２Ｆ,https://karaoke-shin.jp/shop-list/774.html
+295,1,697,Mar百合ヶ丘店,神奈川県川崎市麻生区高石１－１－１７,https://karaoke-shin.jp/shop-list/592.html
+296,1,697,カラオケBanBan川崎銀柳街2号店,神奈川県川崎市川崎区砂子２－３－８ コジマビル１Ｆ～３Ｆ,https://karaoke-shin.jp/shop-list/540.html
+297,1,697,カラオケBanBan溝の口2号店,神奈川県川崎市高津区溝口１丁目１３−１ Qiz溝の口 ４F,https://karaoke-shin.jp/shop-list/850.html
+298,1,697,カラオケBanBan武蔵新城店,神奈川県川崎市中原区新城５-１-１４ デュロス新城２F〜４Ｆ,https://karaoke-shin.jp/shop-list/679.html
+299,1,697,カラオケBanBan川崎銀柳街店,神奈川県川崎市川崎区砂子２-３-１２ 第４０東京ビル３F･４Ｆ,https://karaoke-shin.jp/shop-list/487.html
+300,1,698,カラオケBanBanグッディプレイス相模原店,神奈川県相模原市中央区中央１－２－１　グッディプレイス相模原４F,https://karaoke-shin.jp/shop-list/855.html
+301,1,698,カラオケBanBan古淵店,神奈川県相模原市南区古淵４-１０-１６,https://karaoke-shin.jp/shop-list/691.html
+302,1,698,カラオケBanBan相模原中央店,神奈川県相模原市中央区中央４-１２-１０,https://karaoke-shin.jp/shop-list/323.html
+303,1,709,カラオケBanBan南林間駅前店,神奈川県大和市南林間１-７-１１ タイセイビル４Ｆ,https://karaoke-shin.jp/shop-list/398.html
+304,1,709,カラオケBanBan鶴間店,神奈川県大和市西鶴間１-１７-６,https://karaoke-shin.jp/shop-list/164.html
+305,1,702,カラオケBanBan藤沢駅南口2号店,神奈川県藤沢市南藤沢３-６,https://karaoke-shin.jp/shop-list/797.html
+306,1,702,カラオケBanBan湘南台東口店,神奈川県藤沢市湘南台１-１２-２ ニューライフビル２Ｆ,https://karaoke-shin.jp/shop-list/202.html
+307,1,702,カラオケBanBan藤沢駅南口店,神奈川県藤沢市南藤沢２-１-３ ダイヤモンドビル６Ｆ,https://karaoke-shin.jp/shop-list/192.html
+308,1,700,カラオケBanBan平塚田村店,神奈川県平塚市田村４-１７-４０ １F･２F,https://karaoke-shin.jp/shop-list/326.html
+309,1,701,WAVE江ノ島店,神奈川県鎌倉市腰越３－５-２９　2F,https://karaoke-shin.jp/shop-list/815.html
+310,1,712,WAVE小田急相模原店,神奈川県座間市相模が丘１－１７－４７,https://karaoke-shin.jp/shop-list/593.html
+311,1,716,カラオケBanBan寒川店,神奈川県高座郡寒川町一之宮５-９-３５ ＧＴビル２Ｆ,https://karaoke-shin.jp/shop-list/475.html
+312,1,729,カラオケBanBan新潟坂井店,新潟県新潟市西区坂井砂山３-６-３９,https://karaoke-shin.jp/shop-list/495.html
+313,1,740,カラオケBanBan糸魚川駅前店,新潟県糸魚川市大町１-１-３４ 糸魚川駅前ビル２Ｆ,https://karaoke-shin.jp/shop-list/392.html
+314,1,730,カラオケBanBan長岡喜多町店,新潟県長岡市西津町３８５０,https://karaoke-shin.jp/shop-list/233.html
+315,1,852,カラオケBanBan佐久平店,長野県佐久市岩村田１７９８－１,https://karaoke-shin.jp/shop-list/854.html
+316,1,841,カラオケBanBan飯田中央通り店,長野県飯田市中央通り１-２７,https://karaoke-shin.jp/shop-list/384.html
+317,1,839,カラオケBanBan上田店,長野県上田市常入１-１３-５２,https://karaoke-shin.jp/shop-list/317.html
+318,1,837,カラオケBanBan長野高田店,長野県長野市高田１７４４-１,https://karaoke-shin.jp/shop-list/250.html
+319,1,838,カラオケBanBan松本島内店,長野県松本市大字島内３４４１-２９,https://karaoke-shin.jp/shop-list/206.html
+320,1,843,カラオケBanBan須坂店,長野県須坂市穀町５１４,https://karaoke-shin.jp/shop-list/173.html
+321,1,837,カラオケBanBan長野川中島店,長野県長野市稲里町中央４-１６-４４,https://karaoke-shin.jp/shop-list/130.html
+322,1,810,カラオケBanBan甲府駅前店,山梨県甲府市丸の内１-２-１０ 甲府駅前ビル３Ｆ･４Ｆ,https://karaoke-shin.jp/shop-list/348.html
+323,1,816,カラオケBanBan南アルプス店,山梨県南アルプス市小笠原１２２４-１０ コスモボール２Ｆ,https://karaoke-shin.jp/shop-list/037.html
+324,1,956,カラオケBanBan新清水駅前店,静岡県静岡市清水区相生町９-３０ ホテルサンポート１Ｆ,https://karaoke-shin.jp/shop-list/395.html
+325,1,956,カラオケBanBan草薙店,静岡県静岡市清水区草薙一里山４番１３号,https://karaoke-shin.jp/shop-list/699.html
+326,1,956,カラオケBanBan静岡豊田店,静岡県静岡市駿河区豊田１-２-１,https://karaoke-shin.jp/shop-list/698.html
+327,1,958,カラオケBanBan沼津駅前店,静岡県沼津市大手町５-９-２１ マルトモビル３Ｆ,https://karaoke-shin.jp/shop-list/670.html
+328,1,960,カラオケBanBan三島広小路店,静岡県三島市広小路町９-１４ 鈴木ビル１F･２Ｆ,https://karaoke-shin.jp/shop-list/669.html
+329,1,957,カラオケBanBan浜松佐鳴台店,静岡県浜松市中央区佐鳴台１-１３-８,https://karaoke-shin.jp/shop-list/618.html
+330,1,973,カラオケBanBan湖西中之郷店,静岡県湖西市新居町中之郷２６５５-８,https://karaoke-shin.jp/shop-list/474.html
+331,1,956,カラオケBanBan静岡唐瀬店,静岡県静岡市葵区上足洗４丁目８-３１,https://karaoke-shin.jp/shop-list/446.html
+332,1,958,カラオケBanBan沼津インター店,静岡県沼津市岡宮１２４６-１９,https://karaoke-shin.jp/shop-list/445.html
+333,1,956,カラオケBanBan清水千歳店,静岡県静岡市清水区千歳町４-２１ 和田フードセンター千歳町ビル,https://karaoke-shin.jp/shop-list/440.html
+334,1,977,カラオケBanBan伊豆長岡店,静岡県伊豆の国市古奈２１３-３ 伊豆長岡パーラーツインビル２Ｆ,https://karaoke-shin.jp/shop-list/419.html
+335,1,960,カラオケBanBan三島松本店,静岡県三島市松本２９４-３２,https://karaoke-shin.jp/shop-list/301.html
+336,1,915,カラオケBanBan大垣駅前店,岐阜県大垣市高屋町１丁目１５０－３ エイゲンビル１F,https://karaoke-shin.jp/shop-list/534.html
+337,1,993,カラオケBanBan岡崎矢作町店,愛知県岡崎市矢作町字小河原３３-２２ ２Ｆ,https://karaoke-shin.jp/shop-list/328.html
+338,1,991,カラオケBanBan名駅4丁目店,愛知県名古屋市中村区名駅４丁目４−３１　マルケイ観光ビル ３F～４F,https://karaoke-shin.jp/shop-list/859.html
+339,1,994,カラオケBanBan一宮駅前店,愛知県一宮市栄３丁目８－１５,https://karaoke-shin.jp/shop-list/535.html
+340,1,1040,カラオケBanBan武豊店,愛知県知多郡武豊町平井２-８０,https://karaoke-shin.jp/shop-list/685.html
+341,1,992,カラオケBanBan豊橋小松町店,愛知県豊橋市小松町１６３-２,https://karaoke-shin.jp/shop-list/467.html
+342,1,1007,カラオケBanBan常滑店,愛知県常滑市金山字大曽３６-１,https://karaoke-shin.jp/shop-list/458.html
+343,1,991,カラオケBanBan名古屋太閤口店,愛知県名古屋市中村区椿町３-１９ ウイングビル５Ｆ･６Ｆ,https://karaoke-shin.jp/shop-list/385.html
+344,1,991,カラオケBanBan川名店,愛知県名古屋市昭和区檀溪通1-15-4,https://karaoke-shin.jp/shop-list/357.html
+345,1,991,カラオケBanBan天白植田店,愛知県名古屋市天白区植田３-５０７,https://karaoke-shin.jp/shop-list/356.html
+346,1,997,カラオケBanBan春日井店,愛知県春日井市浅山町１-３-６０,https://karaoke-shin.jp/shop-list/179.html
+347,1,1019,カラオケBanBan豊明店,愛知県豊明市阿野町明定３３,https://karaoke-shin.jp/shop-list/135.html
+348,1,1002,カラオケBanBan伊保店,愛知県豊田市伊保町的場２０-１,https://karaoke-shin.jp/shop-list/090.html
+349,1,774,カラオケBanBan金沢福久店,石川県金沢市福久東１-１４-１ Ｄ１ビル２Ｆ,https://karaoke-shin.jp/shop-list/447.html
+350,1,796,カラオケBanBan大野店,福井県大野市春日３-１０-３ Ｊｏｙ Ｂｏｘ 弥十八ビル２Ｆ,https://karaoke-shin.jp/shop-list/477.html
+351,1,1075,カラオケBanBan彦根駅前店,滋賀県彦根市旭町９-１１ 石原ビル３階,https://karaoke-shin.jp/shop-list/373.html
+352,1,1081,カラオケBanBan甲賀水口店,滋賀県甲賀市水口町本綾野１-７ 井上ビル１Ｆ～４Ｆ,https://karaoke-shin.jp/shop-list/366.html
+353,1,1048,カラオケBanBan松阪店,三重県松阪市駅部田町８５,https://karaoke-shin.jp/shop-list/621.html
+354,1,1049,カラオケBanBan桑名店,三重県桑名市江場１５７８,https://karaoke-shin.jp/shop-list/496.html
+355,1,1048,カラオケBanBan松阪京町店,三重県松阪市京町４７-１,https://karaoke-shin.jp/shop-list/359.html
+356,1,1045,カラオケBanBan高茶屋店,三重県津市高茶屋小森町４０８３-１,https://karaoke-shin.jp/shop-list/358.html
+357,1,1103,カラオケBanBan松井山手店,京都府八幡市美濃山一ノ谷２９-１５ スポーツアベニュー内,https://karaoke-shin.jp/shop-list/482.html
+358,1,1093,カラオケBanBan山科店,京都府京都市山科区椥辻西潰４,https://karaoke-shin.jp/shop-list/473.html
+359,1,1102,カラオケBanBan長岡天神駅前店,京都府長岡京市長岡１丁目１番５,https://karaoke-shin.jp/shop-list/460.html
+360,1,1094,カラオケBanBan福知山店,京都府福知山市字堀２４３０-３,https://karaoke-shin.jp/shop-list/406.html
+361,1,1093,カラオケBanBan西院店,京都府京都市右京区西院三蔵町１２番地 平田観光西院ビル２F･３Ｆ,https://karaoke-shin.jp/shop-list/401.html
+362,1,1213,カラオケBanBan奈良大和高田店,奈良県葛城市東室９６-１,https://karaoke-shin.jp/shop-list/733.html
+363,1,1227,カラオケBanBan西大和店,奈良県北葛城郡上牧町服部台５-２-３ アネックス西大和２Ｆ,https://karaoke-shin.jp/shop-list/671.html
+364,1,1207,カラオケBanBan奈良橿原店,奈良県橿原市十市町８８９-３,https://karaoke-shin.jp/shop-list/646.html
+365,1,1207,カラオケBanBan橿原岡寺駅前店,奈良県橿原市見瀬町５９１-２,https://karaoke-shin.jp/shop-list/362.html
+366,1,1162,カラオケBanBan伊川谷店,兵庫県神戸市西区南別府１-１６-１,https://karaoke-shin.jp/shop-list/170.html
+367,1,1164,カラオケBanBan尼崎塚口店,兵庫県尼崎市塚口町４-４５-１ ２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/479.html
+368,1,1164,カラオケBanBan尼崎大庄店,兵庫県尼崎市大庄西町２丁目２０-４１,https://karaoke-shin.jp/shop-list/465.html
+369,1,1175,カラオケBanBan宝塚店,兵庫県宝塚市湯本町５-２１ 宝塚銀馬車ビル４Ｆ,https://karaoke-shin.jp/shop-list/448.html
+370,1,1178,カラオケBanBan川西見野店,兵庫県川西市見野２-１７-１１,https://karaoke-shin.jp/shop-list/442.html
+371,1,1165,カラオケBanBan明石土山店,兵庫県明石市魚住町清水２１７５-１,https://karaoke-shin.jp/shop-list/413.html
+372,1,1162,カラオケBanBan神戸駅前店,兵庫県神戸市中央区多聞通３-３-１ 神戸アークプラザビル４Ｆ,https://karaoke-shin.jp/shop-list/336.html
+373,1,1176,カラオケBanBan三木志染店,兵庫県三木市志染町広野１丁目１１８-１,https://karaoke-shin.jp/shop-list/295.html
+374,1,1162,カラオケBanBan新長田店,兵庫県神戸市長田区若松町４-２-１５ ピフレ新長田１Ｆ･２Ｆ,https://karaoke-shin.jp/shop-list/290.html
+375,1,1166,カラオケBanBan西宮山口店,兵庫県西宮市山口町名来２丁目１-３２ 本岡ビル３番館,https://karaoke-shin.jp/shop-list/278.html
+376,1,1119,カラオケBanBan喜連瓜破駅前店,大阪府大阪市平野区瓜破２-１-８,https://karaoke-shin.jp/shop-list/798.html
+377,1,1139,カラオケBanBan箕面店,大阪府箕面市西小路３-１-９,https://karaoke-shin.jp/shop-list/741.html
+378,1,1119,カラオケBanBan東大阪若江店,大阪府東大阪市若江東町６-８-３９,https://karaoke-shin.jp/shop-list/681.html
+379,1,1130,カラオケBanBan茨木店,大阪府茨木市中津町１-２ ギルド茨木２Ｆ,https://karaoke-shin.jp/shop-list/658.html
+380,1,1126,カラオケBanBan高槻萩之庄店,大阪府高槻市萩之庄４丁目１-１ ２Ｆ,https://karaoke-shin.jp/shop-list/657.html
+381,1,1119,カラオケBanBan喜連瓜破インター店,大阪府大阪市平野区瓜破西１丁目８-２６ ザクロコーポレション平野ビル３Ｆ,https://karaoke-shin.jp/shop-list/451.html
+382,1,1121,カラオケBanBan岸和田中井町店,大阪府岸和田市中井町３-２１-１,https://karaoke-shin.jp/shop-list/423.html
+383,1,1142,カラオケBanBan古川橋店,大阪府門真市末広町７番１２号 京阪古川橋ビル３Ｆ,https://karaoke-shin.jp/shop-list/307.html
+384,1,1129,カラオケBanBan樟葉店,大阪府枚方市町楠葉１丁目４-１ 第二愛染ビル２Ｆ,https://karaoke-shin.jp/shop-list/291.html
+385,1,1129,カラオケBanBan枚方星ヶ丘店,大阪府枚方市星丘２-３７-８ 星丘西森ビル３Ｆ･４Ｆ,https://karaoke-shin.jp/shop-list/267.html
+386,1,1128,カラオケBanBan守口店,大阪府守口市佐太東町２-６-１４ ジャガーグリーン内２Ｆ,https://karaoke-shin.jp/shop-list/111.html
+387,1,1119,カラオケBanBan東大阪店,大阪府東大阪市吉田本町３-６-１０,https://karaoke-shin.jp/shop-list/103.html
+388,1,1124,カラオケBanBan吹田店,大阪府吹田市山田市場７-７,https://karaoke-shin.jp/shop-list/075.html
+389,1,1242,カラオケBanBan和歌山狐島店,和歌山県和歌山市狐島５０-６,https://karaoke-shin.jp/shop-list/634.html
+390,1,1242,カラオケBanBan和歌山駅前店,和歌山県和歌山市美園町５-２-３ コスモビル,https://karaoke-shin.jp/shop-list/391.html
+391,1,1273,カラオケBanBan米子米原店,鳥取県米子市米原４-５-５５,https://karaoke-shin.jp/shop-list/742.html
+392,1,1312,カラオケBanBan津山大手町店,岡山県津山市大手町５-１０ 対鶴ビル１Ｆ,https://karaoke-shin.jp/shop-list/466.html
+393,1,1310,カラオケBanBan岡山田町店,岡山県岡山市北区田町１丁目８番１０号,https://karaoke-shin.jp/shop-list/422.html
+394,1,1310,カラオケBanBan岡山南店,岡山県岡山市南区福浜西町４-１０ １･２Ｆ,https://karaoke-shin.jp/shop-list/059.html
+395,1,1293,カラオケBanBan出雲北店,島根県出雲市荻杼町２７０-２,https://karaoke-shin.jp/shop-list/636.html
+396,1,1291,カラオケBanBan松江学園通り店,島根県松江市学園２丁目２２-２２,https://karaoke-shin.jp/shop-list/622.html
+397,1,1293,カラオケBanBan出雲店,島根県出雲市塩冶善行町１４-１-２ ２Ｆ,https://karaoke-shin.jp/shop-list/236.html
+398,1,1340,カラオケBanBan宮浦店,広島県三原市宮浦５丁目１-３０,https://karaoke-shin.jp/shop-list/439.html
+399,1,1344,カラオケBanBan三次店,広島県三次市南畑敷町３４８-１１,https://karaoke-shin.jp/shop-list/437.html
+400,1,1342,カラオケBanBan福山本庄店,広島県福山市南本庄１-１２-２２,https://karaoke-shin.jp/shop-list/351.html
+401,1,1337,カラオケBanBan草津南店,広島県広島市西区草津南３-４-２０,https://karaoke-shin.jp/shop-list/332.html
+402,1,1338,カラオケBanBan呉店,広島県呉市本通３-３-５,https://karaoke-shin.jp/shop-list/320.html
+403,1,1342,カラオケBanBan福山南蔵王店,広島県福山市南蔵王町４-１３-１４ １Ｆ〜４F,https://karaoke-shin.jp/shop-list/229.html
+404,1,1368,カラオケBanBan長門市駅前店,山口県長門市東深川８６０-１,https://karaoke-shin.jp/shop-list/751.html
+405,1,1371,カラオケBanBanイオンタウン周南店,山口県周南市古市１丁目４-１,https://karaoke-shin.jp/shop-list/694.html
+406,1,1361,カラオケBanBan宇部神原店,山口県宇部市西梶返３-１２-１７,https://karaoke-shin.jp/shop-list/614.html
+407,1,1361,カラオケBanBan宇部岐波店,山口県宇部市大字東岐波２１１８,https://karaoke-shin.jp/shop-list/414.html
+408,1,1369,カラオケBanBan柳井店,山口県柳井市南町３丁目７-５,https://karaoke-shin.jp/shop-list/404.html
+409,1,1415,カラオケBanBan宇多津浜街道店,香川県綾歌郡宇多津町浜４番丁４５-２,https://karaoke-shin.jp/shop-list/388.html
+410,1,1403,カラオケBanBan高松元山店,香川県高松市元山町１１８２-１,https://karaoke-shin.jp/shop-list/315.html
+411,1,1426,カラオケBanBan大洲店,愛媛県大洲市東大洲１０５１,https://karaoke-shin.jp/shop-list/433.html
+412,1,1383,カラオケBanBan吉野川店,徳島県吉野川市鴨島町内原１５３-１,https://karaoke-shin.jp/shop-list/137.html
+413,1,1620,カラオケBanBan大分府内大橋店,大分県大分市宮崎８２９-１,https://karaoke-shin.jp/shop-list/793.html
+414,1,1620,カラオケBanBan大分中央町店,大分県大分市中央町１-１-１１ ２Ｆ,https://karaoke-shin.jp/shop-list/746.html
+415,1,1625,カラオケBanBan臼杵店,大分県臼杵市市浜１０６０-１,https://karaoke-shin.jp/shop-list/472.html
+416,1,1475,カラオケBanBan茶山店,福岡県福岡市城南区茶山１丁目２−１　２F,https://karaoke-shin.jp/shop-list/856.html
+417,1,1489,カラオケBanBan西鉄二日市駅前店,福岡県筑紫野市二日市北１-３-１ Ｍ・黒崎ビル１Ｆ,https://karaoke-shin.jp/shop-list/770.html
+418,1,1475,カラオケBanBan大橋駅東口店,福岡県福岡市南区大橋１-１-１７ サンシャインひがし２Ｆ,https://karaoke-shin.jp/shop-list/600.html
+419,1,1475,カラオケBanBan井尻店,福岡県福岡市南区井尻４丁目６-１６,https://karaoke-shin.jp/shop-list/441.html
+420,1,1476,カラオケBanBan大牟田店,福岡県大牟田市大正町２-１-１５-１Ｆ,https://karaoke-shin.jp/shop-list/427.html
+421,1,1477,カラオケBanBanスポガ久留米店,福岡県久留米市合川町２１２５,https://karaoke-shin.jp/shop-list/420.html
+422,1,1475,カラオケBanBan今宿店,福岡県福岡市西区横浜１-４３ スポルト内１Ｆ,https://karaoke-shin.jp/shop-list/369.html
+423,1,1475,カラオケBanBan福岡大学前店,福岡県福岡市城南区七隈８-４-２ 七隈ファミリープラザ１Ｆ･２Ｆ,https://karaoke-shin.jp/shop-list/340.html
+424,1,1490,カラオケBanBan春日店,福岡県春日市岡本４-５ ２Ｆ･３Ｆ,https://karaoke-shin.jp/shop-list/324.html
+425,1,1475,カラオケBanBan向野店,福岡県福岡市南区向野１-３-７,https://karaoke-shin.jp/shop-list/314.html
+426,1,1475,カラオケBanBan福岡城南店,福岡県福岡市城南区神松寺２-１-１０ 長尾センタープラザ２Ｆ,https://karaoke-shin.jp/shop-list/252.html
+427,1,1477,カラオケBanBan上津店,福岡県久留米市上津１-１４-５,https://karaoke-shin.jp/shop-list/177.html
+428,1,1493,カラオケBanBan太宰府店,福岡県太宰府市都府楼南５-６-１２ 太宰府Ｊボウル１Ｆ,https://karaoke-shin.jp/shop-list/104.html
+429,1,1474,カラオケBanBan折尾店,福岡県北九州市八幡西区美吉野町１３-７,https://karaoke-shin.jp/shop-list/072.html
+430,1,,カラオケBanBan佐賀南部バイパス店,佐賀県佐賀市本庄町大字本庄５０６-９,https://karaoke-shin.jp/shop-list/393.html
+431,1,,カラオケBanBan小城店,佐賀県小城市小城町畑田２６２５-１,https://karaoke-shin.jp/shop-list/471.html
+432,1,,カラオケBanBan高木瀬店,佐賀県佐賀市高木瀬西６-１１５１-３,https://karaoke-shin.jp/shop-list/408.html
+433,1,1640,カラオケBanBan延岡中央通り店,宮崎県延岡市中央通２-２-１ あすかビル５Ｆ,https://karaoke-shin.jp/shop-list/833.html
+434,1,1639,カラオケBanBan都城中町店,宮崎県都城市中町６-６,https://karaoke-shin.jp/shop-list/623.html
+435,1,1638,カラオケBanBan宮崎花ヶ島店,宮崎県宮崎市花ヶ島町立毛１０７３-１,https://karaoke-shin.jp/shop-list/279.html
+436,1,1575,カラオケBanBan熊本インター店,熊本県熊本市東区御領８-４-８２ ２Ｆ,https://karaoke-shin.jp/shop-list/672.html
+437,1,1618,カラオケBanBanあさぎり店,熊本県球磨郡あさぎり町免田東八幡町１２３１-１,https://karaoke-shin.jp/shop-list/661.html
+438,1,1587,カラオケBanBan天草店,熊本県天草市東浜町４-１,https://karaoke-shin.jp/shop-list/411.html
+439,1,1575,カラオケBanBan熊本ワンダーシティ店,熊本県熊本市中央区九品寺６-９-１ ナムコワンダーシティ１Ｆ,https://karaoke-shin.jp/shop-list/337.html
+440,1,1575,カラオケBanBan植木店,熊本県熊本市北区植木町岩野１８８-１,https://karaoke-shin.jp/shop-list/334.html
+441,1,1594,カラオケBanBan熊本大津店,熊本県菊池郡大津町大字室２１４-７,https://karaoke-shin.jp/shop-list/245.html
+442,1,1554,カラオケBanBan長崎大学前店,長崎県長崎市若葉町２-３０ 住吉ビル４F･５Ｆ,https://karaoke-shin.jp/shop-list/470.html
+443,1,1554,カラオケBanBan長崎思案橋店,長崎県長崎市本石灰町５-６,https://karaoke-shin.jp/shop-list/435.html
+444,1,1556,カラオケBanBan島原店,長崎県島原市新馬場町８４８-２,https://karaoke-shin.jp/shop-list/461.html
+445,1,1554,カラオケBanBan長崎千歳店,長崎県長崎市千歳町４-６ セスピノビル１F〜５Ｆ,https://karaoke-shin.jp/shop-list/430.html
+446,1,1557,カラオケBanBan諫早店,長崎県諫早市鷲崎町３８１-２,https://karaoke-shin.jp/shop-list/377.html
+447,1,1555,カラオケBanBan佐世保日宇店,長崎県佐世保市日宇町２８１０-２４１,https://karaoke-shin.jp/shop-list/296.html
+448,1,1554,カラオケBanBan長崎花丘店,長崎県長崎市花丘町２０-８,https://karaoke-shin.jp/shop-list/749.html
+449,1,1664,カラオケBanBan鹿児島新栄店,鹿児島県鹿児島市新栄町１０-３５,https://karaoke-shin.jp/shop-list/762.html
+450,1,1682,カラオケBanBan姶良店,鹿児島県姶良市西餅田３１２８-６５,https://karaoke-shin.jp/shop-list/731.html
+451,1,1664,カラオケBanBan鹿児島中山バイパス店,鹿児島県鹿児島市中山１-２６-５,https://karaoke-shin.jp/shop-list/690.html
+452,1,1665,カラオケBanBan鹿屋バイパス店,鹿児島県鹿屋市札元２丁目３７８６-１,https://karaoke-shin.jp/shop-list/687.html
+453,1,1668,カラオケBanBan出水店,鹿児島県出水市六月田町３４７,https://karaoke-shin.jp/shop-list/096.html
+454,1,1707,カラオケBanBan小禄店,沖縄県那覇市鏡原町３４－３６ アクロスプラザ小禄２F,https://karaoke-shin.jp/shop-list/849.html
+455,1,1707,カラオケBanBanおもろまち店,沖縄県那覇市おもろまち２－５－１４パイオニアおもろビル２Ｆ,https://karaoke-shin.jp/shop-list/845.html
+456,1,1708,カラオケBanBan宜野湾愛知店,沖縄県宜野湾市愛知１-５-１１ マルキヨビル３Ｆ,https://karaoke-shin.jp/shop-list/677.html
+457,1,1707,カラオケBanBan奥武山公園前店,沖縄県那覇市鏡原町１０-２ 鏡原ＵビルⅡ １Ｆ,https://karaoke-shin.jp/shop-list/489.html
+458,1,1707,カラオケBanBan那覇国際通り店,沖縄県那覇市牧志１-３-５８ タキオンビル３Ｆ,https://karaoke-shin.jp/shop-list/141.html

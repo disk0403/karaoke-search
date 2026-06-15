@@ -1,23 +1,22 @@
 import csv
 import bs4
 import requests
-from dict_pref_city import dict_pref, dict_city
 
 branch_info_rows = []
 branch_condition_rows = []
-branch_code = 0
+pref_rows = []
+city_rows = []
 chain_code = 1
-condition_code_by_alt = {
-    "専用・共有駐車場": 1,
-    "提携駐車場": 1,
-    "Wi-Fi": 2,
-    "持ち込みOK": 3,
-    "喫煙所": 4,
-}
+branch_code = 0
+condition_code_by_alt = {"専用・共有駐車場": 1, "提携駐車場": 1, "Wi-Fi": 2, "持ち込みOK": 3, "喫煙所": 4,}
 
-url = "https://karaoke-shin.jp/shop-list/#freeResearch"
-r = requests.get(url)
-s = bs4.BeautifulSoup(r.text, "html.parser")
+with open("db/pref.csv", encoding="utf-8-sig") as f:
+    reader = csv.DictReader(f)
+    pref_rows = list(reader)
+
+with open("db/city.csv", encoding="utf-8-sig") as f:
+    reader = csv.DictReader(f)
+    city_rows = list(reader)
 
 def get_address(info_branch, pref):
     text = info_branch.find("div", id="sss").get_text(" ", strip=True)
@@ -26,25 +25,26 @@ def get_address(info_branch, pref):
     address = text[start:end].strip()
     return address
 
-def get_city(address, pref):
-    city = ""
-    pref_id = ""
+def get_city_code(address, pref):
+    pref_code = ""
 
-    for pref_data in dict_pref.values():
-        if pref in pref_data["alias"]:
-            pref_id = pref_data["pref_id"]
+    for pref_row in pref_rows:
+        if pref_row["pref"] == pref:
+            pref_code = pref_row["pref_code"]
             break
 
-    for city_data in dict_city.values():
-        if city_data["pref_id"] != pref_id:
+    for city_row in city_rows:
+        if city_row["pref_code"] != pref_code:
             continue
 
-        for city_alias in city_data["alias"]:
-            if city_alias in address:
-                city = city_data["name"]
-                return city
+        if city_row["city"] in address:
+            return city_row["city_code"]
 
-    return city
+    return ""
+
+url = "https://karaoke-shin.jp/shop-list/#freeResearch"
+r = requests.get(url)
+s = bs4.BeautifulSoup(r.text, "html.parser")
 
 for link_pref in s.find_all("area", shape = "rect"):
     url_pref = link_pref["href"]
@@ -57,7 +57,7 @@ for link_pref in s.find_all("area", shape = "rect"):
         branch = info_branch.a.string
         url_branch = info_branch.a["href"]
         address = get_address(info_branch, pref)
-        city = get_city(address, pref)
+        city_code = get_city_code(address, pref)
         condition_codes = []
 
         for img_tag in info_branch.find_all("img"):
@@ -70,11 +70,11 @@ for link_pref in s.find_all("area", shape = "rect"):
         for condition_code in sorted(set(condition_codes)):
             branch_condition_rows.append([branch_code, condition_code])
 
-        branch_info_rows.append([branch_code, chain_code, branch, url_branch, pref, city, address])
+        branch_info_rows.append([branch_code, chain_code, city_code, branch, address, url_branch])
         
 with open("local/branch_info.csv", "w", newline="", encoding="utf-8-sig") as f:
     writer = csv.writer(f)
-    writer.writerow(["branch_code", "chain_code", "branch", "url", "pref", "city", "address"])
+    writer.writerow(["branch_code", "chain_code", "city_code", "branch", "address", "url_branch"])
     writer.writerows(branch_info_rows)
 
 with open("local/branch_condition.csv", "w", newline="", encoding="utf-8-sig") as f:

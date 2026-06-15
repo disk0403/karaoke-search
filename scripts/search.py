@@ -1,101 +1,105 @@
 import csv
-from dict_pref_city import dict_pref, dict_city, dict_pref_city_id
 
-for pref_id, pref in dict_pref.items():
-    print(f"{int(pref_id):>2}. {pref['name']}")
+def read_csv(path):
+    with open(path, encoding="utf-8-sig") as f:
+        return list(csv.DictReader(f))
+
+pref_rows = read_csv("db/pref.csv")
+city_rows = read_csv("db/city.csv")
+condition_rows = read_csv("db/condition.csv")
+branch_info_rows = read_csv("local/branch_info.csv")
+branch_condition_rows = read_csv("local/branch_condition.csv")
+
+for pref_row in pref_rows:
+    print(f"{int(pref_row['pref_code']):>2}. {pref_row['pref']}")
 
 message = "数字を入力して都道府県を選択してください: "
 
 while True:
-    selected_pref_id = input(message).translate(str.maketrans("０１２３４５６７８９", "0123456789"))
+    selected_pref_code = input(message).translate(str.maketrans("０１２３４５６７８９", "0123456789"))
 
-    if selected_pref_id.isdigit() and 1 <= int(selected_pref_id) <= 47:
-        selected_pref_id = selected_pref_id.zfill(2)
+    if selected_pref_code.isdigit() and 1 <= int(selected_pref_code) <= 47:
         break
 
     message = "1-47の整数値で入力してください: "
 
-city_ids = dict_pref_city_id[selected_pref_id]
-city_number = len(city_ids)
+selected_city_rows = []
+
+for city_row in city_rows:
+    if city_row["pref_code"] == selected_pref_code:
+        selected_city_rows.append(city_row)
+
+city_number = len(selected_city_rows)
 
 print()
-for unique_id in city_ids:
-    city = dict_city[unique_id]
-    print(f"{int(city['city_id']):>3}. {city['name']}")
+for index, city_row in enumerate(selected_city_rows, start=1):
+    print(f"{index:>3}. {city_row['city']}")
 
 message = "数字を入力して市区町村を選択してください: "
 
 while True:
-    selected_city_id = input(message).translate(str.maketrans("０１２３４５６７８９", "0123456789"))
+    selected_city_number = input(message).translate(str.maketrans("０１２３４５６７８９", "0123456789"))
 
-    if selected_city_id.isdigit() and 1 <= int(selected_city_id) <= city_number:
-        selected_city_id = selected_city_id.zfill(3)
+    if selected_city_number.isdigit() and 1 <= int(selected_city_number) <= city_number:
         break
 
     message = f"1-{city_number}の整数値で入力してください: "
 
-selected_unique_id = selected_pref_id + selected_city_id
-selected_pref = dict_pref[selected_pref_id]["name"]
-selected_city = dict_city[selected_unique_id]["name"]
+selected_city_row = selected_city_rows[int(selected_city_number) - 1]
+selected_city_code = selected_city_row["city_code"]
 
 print()
 print("0. 条件なし")
-print("1. 駐車場有")
-print("2. Wi-Fi有")
-print("3. 持ち込み可")
-print("4. 喫煙所有")
-message = "0、または1-4の数字の組み合わせを入力して条件を選択してください: "
+
+for condition_row in condition_rows:
+    print(f"{condition_row['condition_code']}. {condition_row['condition']}")
+
+valid_condition_codes = {condition_row["condition_code"] for condition_row in condition_rows}
+message = "0、または条件番号の組み合わせを入力してください: "
 
 while True:
     selected_condition_numbers = input(message).translate(str.maketrans("０１２３４５６７８９", "0123456789"))
 
-    if selected_condition_numbers == "0" or set(selected_condition_numbers) <= set("1234"):
+    if selected_condition_numbers == "0" or set(selected_condition_numbers) <= valid_condition_codes:
         break
 
-    message = "0、または1-4の組み合わせで入力してください: "
+    message = "0、または条件番号の組み合わせで入力してください: "
 
 if selected_condition_numbers == "0":
-    selected_conditions = []
+    selected_conditions = set()
 else:
-    selected_conditions = list(selected_condition_numbers)
+    selected_conditions = set(selected_condition_numbers)
 
-condition = {
-    "1": "parking",
-    "2": "wifi",
-    "3": "bringin",
-    "4": "smoking",
-}
+branch_conditions = {}
+
+for row in branch_condition_rows:
+    branch_code = row["branch_code"]
+    condition_code = row["condition_code"]
+
+    if branch_code not in branch_conditions:
+        branch_conditions[branch_code] = set()
+
+    branch_conditions[branch_code].add(condition_code)
 
 print()
 print("検索結果")
 print("-------------------------------------------")
 result_count = 0
 
-with open("local/branches.csv", encoding="utf-8-sig") as f:
-    reader = csv.DictReader(f)
+for branch in branch_info_rows:
+    if branch["city_code"] != selected_city_code:
+        continue
 
-    for branch in reader:
-        if branch["pref"] != selected_pref:
-            continue
+    available_conditions = branch_conditions.get(branch["branch_code"], set())
 
-        if branch["city"] != selected_city:
-            continue
+    if not selected_conditions <= available_conditions:
+        continue
 
-        match = True
-
-        for condition_number in selected_conditions:
-            column = condition[condition_number]
-
-            if branch[column] != "1":
-                match = False
-                break
-
-        if match:
-            result_count += 1
-            print(branch["branch"])
-            print(branch["address"])
-            print(branch["url"])
-            print("-------------------------------------------")
+    result_count += 1
+    print(branch["branch"])
+    print(branch["address"])
+    print(branch["url_branch"])
+    print("-------------------------------------------")
 
 if result_count == 0:
     print("該当する店舗はありません。")
