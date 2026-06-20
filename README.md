@@ -20,19 +20,17 @@ deactivate
 
 ## スクレイピング
 
-カラオケBanBanの店舗情報を取得し、`branches.csv` を生成・更新する。
+カラオケBanBanの店舗情報を取得し、`karaoke_search.db` を更新する。
 
 ```bash
-python3 scripts/scraping_banban.py
+python3 scripts/banban/scraping_banban.py
 ```
 
-実行すると、カラオケBanBanの店舗情報を取得し、`local/branches.csv` に書き出す。
-
-`branches.csv` は毎回上書きされるため、手元で編集した内容を残したい場合は、実行前に別名でバックアップする。
+スクレイピングをやり直す場合は、`db/karaoke_search.db` をコピーして、ルート直下にペーストする。
 
 ## 検索
 
-`branches.csv` を使って、都道府県・市区町村・条件で店舗を検索する。
+`karaoke_search.db` を使って、都道府県・市区町村・条件で店舗を検索する。
 
 ```bash
 python3 scripts/search.py
@@ -56,40 +54,12 @@ python3 scripts/search.py
 
 該当する店舗がある場合は、店舗名・住所・店舗ページURLが表示され、該当店舗がない場合は、`該当する店舗はありません。` と表示される。
 
-## ファイル説明
-
-### `search.py`
-
-`branches.csv` を読み込み、対話形式で店舗を検索するためのスクリプト。
-
-都道府県と市区町村の一覧は `dict_pref_city.py` の辞書を参照する。
-
-### `branches.csv`
-
-検索対象になる店舗データ。
-
-`scraping_banban.py` を実行すると、このファイルが生成・更新される。`search.py` はこのCSVを読み込んで検索する。
-
-### `scraping_banban.py`
-
-カラオケBanBanの店舗一覧ページをスクレイピングし、店舗データを `branches.csv` に書き出すスクリプト。
-
-### `dict_pref_city.py`
-
-47都道府県と1747市区町村の辞書データをまとめたファイル。
-
-以下の辞書を定義している。
-
-- `dict_pref`: 都道府県ID、都道府県名、表記ゆれ用の別名
-- `dict_city`: 市区町村ID、市区町村名、都道府県ID、表記ゆれ用の別名
-- `dict_pref_city_id`: 都道府県IDごとの市区町村ID一覧
-
-カラオケBanBanの住所表記に対応するため、千葉県鎌ケ谷市は `鎌ケ谷市` と `鎌ヶ谷市` の2種類の表記を alias に入れている。
-
-また、北海道内に同名の `泊村` が `unique_id`: `01066` および `unique_id`: `01181` として存在しているが、前者は古宇郡、後者は国後郡に属する別の村である。
-
 ## その他
 
-カラオケBanBanのページ側の表示の影響で、佐賀県だけパンくずなどの都道府県表示が `佐賀県` ではなく `佐賀` になっている（おそらくサイト作成者側のミス）。
+- `db/karaoke_search.db`において、北海道内に同名の `泊村` が `city_code`: `66` および `city_code`: `181` として存在しているが、前者は古宇郡、後者は国後郡に属する別の村である。
 
-そのため、`scraping_banban.py` で `branches.csv` を生成した後、佐賀県の店舗については市区町村が正しく入るように `pref` を `佐賀県` に手動で修正する必要がある。
+- カラオケBanBanの都道府県の店舗ページで、千葉県（`https://karaoke-shin.jp/shop-area/12.html`）鎌ケ谷市の店舗について、dbの表記`鎌ケ谷市`とBanBanの表記`鎌ヶ谷市`の表記揺れがある。
+そのため、`scraping_banban.py` で `karaoke_search.db` を更新した後、千葉県鎌ケ谷市の店舗については手動で修正する必要がある。
+
+- カラオケBanBanの都道府県の店舗ページで、佐賀県（`https://karaoke-shin.jp/shop-area/41.html`）だけパンくずなどの都道府県表示が `佐賀県` ではなく `佐賀` になっている（おそらくサイト作成者側のミス）。
+そのため、`scraping_banban.py` で `karaoke_search.db` を更新した後、佐賀県の店舗については手動で修正する必要がある。
