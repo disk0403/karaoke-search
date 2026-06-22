@@ -36,17 +36,13 @@ c.executescript('''
         city_code INTEGER,
         branch TEXT,
         address TEXT,
-        url_branch TEXT,
-        FOREIGN KEY(chain_code) REFERENCES chain(chain_code),
-        FOREIGN KEY(city_code) REFERENCES city(city_code)
+        url_branch TEXT
     );
 
     CREATE TABLE branch_condition(
         branch_code INTEGER,
         condition_code INTEGER,
-        PRIMARY KEY(branch_code, condition_code),
-        FOREIGN KEY(branch_code) REFERENCES branch_info(branch_code),
-        FOREIGN KEY(condition_code) REFERENCES condition(condition_code)
+        PRIMARY KEY(branch_code, condition_code)
     );
 ''')
 
