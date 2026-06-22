@@ -2,3 +2,4 @@ __pycache__/
 local/
 .venv/
 .DS_Store
+karaoke_search.db
